@@ -29,7 +29,7 @@ A few years later, while Jobs was enrolled at Homestead High School (1971), he w
 ### Adding to an existing python project
 
 ```python
-    from nlps import nls
+    from nlps import nlps
     tt = nlps()
     tt.summarize(title, text)
 ```
