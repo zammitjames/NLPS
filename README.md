@@ -12,7 +12,7 @@ NLPS is an automatic summarization tool making use of natural language processin
     You can test NLPS by running `python example.py`.
     
 ### Example
-As a test I entered a 3000 word document about the childhood of Steve Jobs, and the output returned was:
+As a test I entered a descriptive document about the childhood of Steve Jobs, and the output returned was:
 ```
 Shortly after Steve was placed for adoption, his biological parents married and had another child, Mona Simpson.
 It was not until Jobs was 27 that he was able to uncover information on his biological parents.
