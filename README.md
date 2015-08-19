@@ -1,7 +1,8 @@
 NLPS - Natural Language Processing Summerizer
 =============
 
-NLPS is an automatic summarization algorithm making use of natural language processing units that allow for detection of construncts within the english language.
+NLPS is an automatic summarization tool making use of natural language processing algorithms that analyze, understand, and generate languages that humans use naturally. The aim of the project is to give an accurate short-summary of the inputted document/text.
+
 
 ### Installation
 	
