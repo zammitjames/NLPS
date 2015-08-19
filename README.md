@@ -6,7 +6,7 @@ NLPS is an automatic summarization algorithm making use of natural language proc
 ### Installation
 	
     Simply download the repository from github or clone it using your favorite client/terminal!
-    >>> git clone https://github.com/zammitjames/NLS.git
+    >>> git clone https://github.com/zammitjames/NLPS.git
  
     You can test NLPS by running `python example.py`.
 ### Prerequisites
