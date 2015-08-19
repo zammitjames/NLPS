@@ -26,7 +26,7 @@ A few years later, while Jobs was enrolled at Homestead High School (1971), he w
 
     >>> sudo pip install -nltk
 
-### Addin to an existing python project
+### Adding to an existing python project
 
 ```python
     from nlps import nls
