@@ -8,7 +8,7 @@ NLPS is an automatic summarization algorithm making use of natural language proc
 	// Downloadt
     >>> git clone https://github.com/zammitjames/NLS.git
  
-### Prequisitries
+### Prerequisites
 
     >>> sudo pip install -nltk
 
