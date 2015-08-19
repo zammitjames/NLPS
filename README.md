@@ -10,6 +10,18 @@ NLPS is an automatic summarization tool making use of natural language processin
     >>> git clone https://github.com/zammitjames/NLPS.git
  
     You can test NLPS by running `python example.py`.
+    
+### Example
+As a test I entered a 3000 word document about the childhood of Steve Jobs, and the output returned was:
+```
+Shortly after Steve was placed for adoption, his biological parents married and had another child, Mona Simpson.
+It was not until Jobs was 27 that he was able to uncover information on his biological parents.
+
+As an infant, Steven was adopted by Clara and Paul Jobs and named Steven Paul Jobs.
+Jobs tested so well, however, that administrators wanted to skip him ahead to high school—a proposal that his parents declined.
+A few years later, while Jobs was enrolled at Homestead High School (1971), he was introduced to his future partner, Steve Wozniak, through a friend of Wozniak's.
+```
+
 ### Prerequisites
 
     >>> sudo pip install -nltk
